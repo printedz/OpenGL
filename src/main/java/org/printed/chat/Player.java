@@ -82,7 +82,7 @@ public class Player {
         }
 
         // Cargar textura
-        loadTexture("player.png");
+        loadTexture("robot.png");
 
         // Desenlazar el VAO
         GL30.glBindVertexArray(0);
